@@ -1,4 +1,4 @@
-name: Pylint
+name: Run unit test via pytest
 
 on: [push]
 
